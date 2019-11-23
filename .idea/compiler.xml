@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-spring-cloud-config-example" />
+        <module name="nacos-spring-cloud-config-multi-data-ids-example" />
+        <module name="nacos-spring-cloud-consumer-example" />
+        <module name="nacos-spring-cloud-provider-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nacos" target="1.8" />
+      <module name="nacos-spring-cloud-config-example" target="1.8" />
+      <module name="nacos-spring-cloud-config-multi-data-ids-example" target="1.8" />
+      <module name="nacos-spring-cloud-consumer-example" target="1.8" />
+      <module name="nacos-spring-cloud-discovery-example" target="1.8" />
+      <module name="nacos-spring-cloud-provider-example" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos.iml" filepath="$PROJECT_DIR$/nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-config-example/nacos-spring-cloud-config-example.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-config-example/nacos-spring-cloud-config-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-config-multi-data-ids-example/nacos-spring-cloud-config-multi-data-ids-example.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-config-multi-data-ids-example/nacos-spring-cloud-config-multi-data-ids-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-consumer-example/nacos-spring-cloud-consumer-example.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-consumer-example/nacos-spring-cloud-consumer-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-discovery-example.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-discovery-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-provider-example/nacos-spring-cloud-provider-example.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-example/nacos-spring-cloud-provider-example/nacos-spring-cloud-provider-example.iml" />
+    </modules>
+  </component>
+</project>
